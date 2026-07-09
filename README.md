@@ -1,3 +1,10 @@
+<img width="1465" height="913" alt="Screenshot from 2026-07-09 12-08-42" src="https://github.com/user-attachments/assets/c1d5619c-518c-48ef-83e7-5e3223759bd8" />
+<img width="1465" height="913" alt="Screenshot from 2026-07-09 12-08-37" src="https://github.com/user-attachments/assets/8fdb4dc8-8a73-49b5-a896-ebf852d2d597" />
+<img width="1465" height="913" alt="Screenshot from 2026-07-09 12-08-31" src="https://github.com/user-attachments/assets/7116b585-376d-44b3-8c18-4f8c3daf1b4e" />
+<img width="1465" height="913" alt="Screenshot from 2026-07-09 12-08-14" src="https://github.com/user-attachments/assets/0f4f6359-bc0b-41dc-aedc-dcc9d2008c4d" />
+<img width="1465" height="913" alt="Screenshot from 2026-07-09 12-07-59" src="https://github.com/user-attachments/assets/bed3cd28-132c-4bad-a321-fd46bdf063ea" />
+<img width="1465" height="913" alt="Screenshot from 2026-07-09 12-07-50" src="https://github.com/user-attachments/assets/362c43af-1a06-4b13-82f4-22517dd1bf6a" />
+<img width="1465" height="913" alt="Screenshot from 2026-07-09 12-07-35" src="https://github.com/user-attachments/assets/342108e8-da2d-4c29-b1a3-f04c4f5e86ed" />
 ## 🛠️ Project Setup
 
 ### 1. Clone the Repository
