@@ -3,7 +3,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aditya-P-1/task-management.git
 cd task-management
 ```
 
