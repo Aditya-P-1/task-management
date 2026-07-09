@@ -1,0 +1,59 @@
+# =========================
+# Node Modules
+# =========================
+backend/node_modules/
+frontend/node_modules/
+
+# =========================
+# Environment Variables
+# =========================
+backend/.env
+backend/.env.local
+frontend/.env
+frontend/.env.local
+
+# =========================
+# Build Output
+# =========================
+backend/dist/
+frontend/dist/
+frontend/build/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Coverage
+# =========================
+coverage/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Vite Cache
+# =========================
+frontend/.vite/
+
+# =========================
+# Prisma Generated Files (optional)
+# =========================
+backend/src/generated/
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.swp
